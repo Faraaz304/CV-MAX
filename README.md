@@ -15,7 +15,7 @@ This Flask application provides various image processing functionalities, includ
 
 ## Demo Image
 
-![Demo1](path/to/image)
-![Demo2](path/to/image)
-![Demo3](path/to/image)
+![Demo1](https://github.com/Faraaz304/CV-MAX/blob/main/demo1.png)
+![Demo2](https://github.com/Faraaz304/CV-MAX/blob/main/demo2.png)
+
 
